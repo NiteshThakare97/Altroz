@@ -42,7 +42,8 @@
 
 .elementor-586 .elementor-element.elementor-element-88d36f3:not(.elementor-motion-effects-element-type-background),
 .elementor-586 .elementor-element.elementor-element-88d36f3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #1a1a1a;
+    background: linear-gradient(90deg, #1e1566, #612b8d);
+    border-radius: 20px;
 }
 
 .elementor-586 .elementor-element.elementor-element-88d36f3,
@@ -161,6 +162,7 @@ body.rtl .elementor-586 .elementor-element.elementor-element-718033c {
     background-image: url("../../../../../images/3RdSection01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: #000;
 }
 
 .elementor-586 .elementor-element.elementor-element-de9cded>.elementor-background-overlay {
@@ -328,7 +330,7 @@ body.rtl .elementor-586 .elementor-element.elementor-element-718033c {
 
 .elementor-586 .elementor-element.elementor-element-752ebc5 {
     padding: 4em 0em 4em 0em;
-    background: #1a1a1a;
+    background: linear-gradient(180deg, #622c8e, #27186b 61%);
 }
 
 .elementor-586 .elementor-element.elementor-element-e560592>.elementor-element-populated {
